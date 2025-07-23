@@ -14,7 +14,7 @@ zh:
   contentDir: content/zh
   title: 罗濡东
   params:
-    description: 中文描述
+    description: Site description in Chinese...
   menu:
     main:
       - name: 个人主页
@@ -26,7 +26,7 @@ zh:
       - name: 话题讨论
         url: /#talks
         weight: 12
-      - name: 最新消息
+      - name: news
         url: /#news
         weight: 13
       - name: 相关经历
