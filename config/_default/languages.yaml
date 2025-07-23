@@ -21,7 +21,7 @@ zh:
         url: 
         weight: 10
       - name: 发表文章
-        url: '#papers'
+        url: 'https://lrdwt.github.io/LRDwtC.github.io/zh/#papers'
         weight: 11
       - name: 话题讨论
         url: '#talks'
