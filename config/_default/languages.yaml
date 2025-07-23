@@ -11,10 +11,10 @@ en:
 # Uncomment the lines below to configure your website in a second language.
 zh:
   languageCode: zh-Hans
-  contentDir: content/zh
+  contentDir: content/en
   title: 罗濡东
   params:
-    description: Site description in Chinese...
+    description: 中文描述...
   menu:
     main:
       - name: 个人主页
@@ -26,7 +26,7 @@ zh:
       - name: 话题讨论
         url: /#talks
         weight: 12
-      - name: news
+      - name: 最新消息
         url: /#news
         weight: 13
       - name: 相关经历
