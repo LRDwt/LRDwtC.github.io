@@ -12,11 +12,29 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: Chinese website title...
+  title: 罗濡东
   params:
-    description: Site description in Chinese...
+    description: 中文描述
   menu:
     main:
-      - name: 罗濡东
-        url: '#about'
-        weight: 1
+      - name: 个人主页
+        url: /
+        weight: 10
+      - name: 发表文章
+        url: /#papers
+        weight: 11
+      - name: 话题讨论
+        url: /#talks
+        weight: 12
+      - name: 最新消息
+        url: /#news
+        weight: 13
+      - name: 相关经历
+        url: experience/
+        weight: 20
+      - name: 参与项目
+        url: projects/
+        weight: 30
+      - name: 教学活动
+        url: teaching/
+        weight: 80
