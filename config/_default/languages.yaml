@@ -21,13 +21,13 @@ zh:
         url: 
         weight: 10
       - name: 发表文章
-        url: 'https://lrdwt.github.io/LRDwtC.github.io/zh/#papers'
+        url: 'https://lrdwt.github.io/LRDwtC.github.io/#papers'
         weight: 11
       - name: 话题讨论
-        url: '#talks'
+        url: 'https://lrdwt.github.io/LRDwtC.github.io/#talks'
         weight: 12
       - name: 最新消息
-        url: '#news'
+        url: 'https://lrdwt.github.io/LRDwtC.github.io/#news'
         weight: 13
       - name: 相关经历
         url: experience/
